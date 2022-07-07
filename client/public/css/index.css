@@ -1,11 +1,11 @@
 body {
-	
+	background-image: url('https://i.pinimg.com/474x/da/97/44/da9744a53eddb1e13bd79bdb3591b607.jpg')
 }
 
 #splash_title {
 	width: 100%;
   font-size: 100px;
-  color: red;
+  color: lawngreen;
   opacity: 0.85;
   text-shadow: 4px 4px 4px rgba(255, 255, 255);
   text-align: center;

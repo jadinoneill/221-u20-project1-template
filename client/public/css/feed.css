@@ -9,7 +9,7 @@ header {
 	justify-content: space-between;
 	align-items: center;
 
-	background-color: red;
+	background-color: navy;
 	font-size: 30px;
 	color: white;
 }
@@ -21,11 +21,11 @@ main {
 }
 
 footer {
-	position: absolute;
+	position: realtive;
 	left: 0px;
-  bottom: 0px;
+  	bottom: 0px;
 	width: 100%;
-	background-color: red;
+	background-color: navy;
 	text-align: center;
 	font-size: 20px;
 }
@@ -41,7 +41,7 @@ a {
 	text-decoration: none;
 }
 
-#redfox{
+#yankee{
 	position: relative;
 	float: left;
 	height: 50px;
